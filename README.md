@@ -58,4 +58,4 @@ MIT License
 
 ## Contato
 
-Desenvolvido por você. Para dúvidas ou sugestões, entre em contato: seuemail@exemplo.com
+Desenvolvido por Guilherme Maciel. Para dúvidas ou sugestões, entre em contato: guilherme_costantino@hotmail.com
